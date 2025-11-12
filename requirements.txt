@@ -1,0 +1,7 @@
+%%writefile requirements.txt
+transformers==4.46.0
+torch
+streamlit
+scikit-learn
+pandas
+numpy
