@@ -511,8 +511,6 @@ def main():
     st.markdown("""
     <div style="text-align: center; padding: 2rem; color: #666;">
         <strong>Built with 🎭 Streamlit & 🤗 Transformers</strong><br>
-        Model: <a href="https://huggingface.co/mustehsannisarrao/fine-tune-bert-sentimental-analysis" 
-        target="_blank" style="color: #667eea;">mustehsannisarrao/fine-tune-bert-sentimental-analysis</a>
     </div>
     """, unsafe_allow_html=True)
 
